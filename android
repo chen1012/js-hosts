@@ -2,7 +2,46 @@
    "code":1,
    "message":"SUCCESS",
    "data":[
-      
+       {
+         "id":6,
+         "domain":"https://aog207.com",
+         "webDomain":"https://aog207.com",
+         "status":1,
+         "domainType":null,
+         "speed":"0.011"
+      },     
+       {
+         "id":7,
+         "domain":"https://aog233.vip",
+         "webDomain":"https://aog233.vip",
+         "status":1,
+         "domainType":null,
+         "speed":"0.011"
+      },     
+       {
+         "id":8,
+         "domain":"https://aog250.vip",
+         "webDomain":"https://aog250.vip",
+         "status":1,
+         "domainType":null,
+         "speed":"0.011"
+      },     
+       {
+         "id":9,
+         "domain":"https://aog263.net",
+         "webDomain":"https://aog263.net",
+         "status":1,
+         "domainType":null,
+         "speed":"0.011"
+      },     
+       {
+         "id":10,
+         "domain":"https://aog286.co",
+         "webDomain":"https://aog286.co",
+         "status":1,
+         "domainType":null,
+         "speed":"0.011"
+      },      
       {
          "id":11,
          "domain":"https://sfsyzoiu.tv",
