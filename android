@@ -4,16 +4,16 @@
    "data":[
        {
          "id":6,
-         "domain":"https://aog207.com",
-         "webDomain":"https://aog207.com",
+         "domain":"https://h5.aog207.com",
+         "webDomain":"https://h5.aog207.com",
          "status":1,
          "domainType":null,
          "speed":"0.011"
       },     
        {
          "id":7,
-         "domain":"https://aog233.vip",
-         "webDomain":"https://aog233.vip",
+         "domain":"https://h5.aog233.vip",
+         "webDomain":"https://h5.aog233.vip",
          "status":1,
          "domainType":null,
          "speed":"0.011"
@@ -36,8 +36,8 @@
       },     
        {
          "id":10,
-         "domain":"https://aog286.co",
-         "webDomain":"https://aog286.co",
+         "domain":"https://h5.aog286.co",
+         "webDomain":"https://h5.aog286.co",
          "status":1,
          "domainType":null,
          "speed":"0.011"
