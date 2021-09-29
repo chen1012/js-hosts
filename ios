@@ -4,16 +4,16 @@
   "data": [
     {
       "id": 2,
-      "domain": "https://iog207.com",
-      "webDomain": "https://iog207.com",
+      "domain": "https://h5.iog207.com",
+      "webDomain": "https://h5.iog207.com",
       "status": 1,
       "domainType": null,
       "speed": "0.016"
     },
     {
       "id": 3,
-      "domain": "https://iog233.vip",
-      "webDomain": "https://iog233.vip",
+      "domain": "https://h5.iog233.vip",
+      "webDomain": "https://h5.iog233.vip",
       "status": 1,
       "domainType": null,
       "speed": "0.016"
@@ -36,8 +36,8 @@
     },
     {
       "id": 6,
-      "domain": "https://iog286.co",
-      "webDomain": "https://iog286.co",
+      "domain": "https://h5.iog286.co",
+      "webDomain": "https://h5.iog286.co",
       "status": 1,
       "domainType": null,
       "speed": "0.016"
