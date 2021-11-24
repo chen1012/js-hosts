@@ -2,8 +2,24 @@
    "code":1,
    "message":"SUCCESS",
    "data":[
-       {
+      {
          "id":6,
+         "domain":"https://h5.aog250.vip:11193",
+         "webDomain":"https://h5.aog250.vip:11193",
+         "status":1,
+         "domainType":null,
+         "speed":"0.011"
+      },     
+       {
+         "id":7,
+         "domain":"https://h5.aog263.net:11193",
+         "webDomain":"https://h5.aog263.net:11193",
+         "status":1,
+         "domainType":null,
+         "speed":"0.011"
+      },     
+       {
+         "id":8,
          "domain":"https://h5.aog207.com",
          "webDomain":"https://h5.aog207.com",
          "status":1,
@@ -11,25 +27,9 @@
          "speed":"0.011"
       },     
        {
-         "id":7,
+         "id":9,
          "domain":"https://h5.aog233.vip",
          "webDomain":"https://h5.aog233.vip",
-         "status":1,
-         "domainType":null,
-         "speed":"0.011"
-      },     
-       {
-         "id":8,
-         "domain":"https://aog250.vip",
-         "webDomain":"https://aog250.vip",
-         "status":1,
-         "domainType":null,
-         "speed":"0.011"
-      },     
-       {
-         "id":9,
-         "domain":"https://aog263.net",
-         "webDomain":"https://aog263.net",
          "status":1,
          "domainType":null,
          "speed":"0.011"
