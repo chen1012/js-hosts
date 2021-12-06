@@ -4,16 +4,16 @@
    "data":[
       {
          "id":6,
-         "domain":"https://h5.aog250.vip:11193",
-         "webDomain":"https://h5.aog250.vip:11193",
+         "domain":"https://h5.aog263.net:11193",
+         "webDomain":"https://h5.aog263.net:11193",
          "status":1,
          "domainType":null,
          "speed":"0.011"
       },     
        {
          "id":7,
-         "domain":"https://h5.aog263.net:11193",
-         "webDomain":"https://h5.aog263.net:11193",
+         "domain":"https://h5.aog250.vip:11193",
+         "webDomain":"https://h5.aog250.vip:11193",
          "status":1,
          "domainType":null,
          "speed":"0.011"
